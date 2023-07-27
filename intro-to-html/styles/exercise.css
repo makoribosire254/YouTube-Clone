@@ -1,0 +1,33 @@
+.uber-btn{
+  height: 36px;
+  width: 110px;
+  background: #000;
+  color: #fff;
+  border: none;
+  border-radius: 2px;
+  font-size: 15px;
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+.amazon-btn {
+  height: 36px;
+  width: 150px;
+  background: rgba(255, 216, 20);
+  border: none;
+  border-radius: 18px;
+  font-size: 15px;
+  font-weight: bold;
+  margin-right: 8px;
+}
+
+.github-btn {
+  height: 36px;
+  width: 110px;
+  background: rgb(46, 164, 79);
+  color: #fff;
+  border: none;
+  border-radius: 2px;
+  font-size: 15px;
+  font-weight: bold;
+}
